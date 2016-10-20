@@ -1,0 +1,25 @@
+C:\Users\Josefine\Dropbox\CSharp\CSharpProjectEmpty\CSharpProject\bin\Debug\CSharpProject.exe.config
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\bin\Debug\CSharpProject.exe.config
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\bin\Debug\CSharpProject.exe
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\bin\Debug\CSharpProject.pdb
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\bin\Debug\Logic.dll
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\bin\Debug\Logic.pdb
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\Views\Details.baml
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\Views\Details.g.cs
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\App.g.cs
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\CSharpProject_MarkupCompile.cache
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\CSharpProject.g.resources
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\CSharpProject.Properties.Resources.resources
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\CSharpProject.exe
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\CSharpProject.pdb
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\CSharpProject.Main.resources
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\CSharpProject.Views.AddFeed.resources
+C:\Users\Calle\Desktop\CSharpProjectEmpty\CSharpProject\obj\Debug\CSharpProject.Views.ChangeRemoveFeed.resources
+C:\Users\Calle\Desktop\Calle CSharpProject\CSharpProject\bin\Debug\CSharpProject.exe.config
+C:\Users\Calle\Desktop\Calle CSharpProject\CSharpProject\obj\Debug\CSharpProject.exe
+C:\Users\Calle\Desktop\Calle CSharpProject\CSharpProject\obj\Debug\CSharpProject.pdb
+C:\Users\Stanislav\Dropbox\Calle CSharpProject\CSharpProject\bin\Debug\CSharpProject.exe.config
+C:\Users\Stanislav\Dropbox\Calle CSharpProject\CSharpProject\obj\Debug\CSharpProject.exe
+C:\Users\Stanislav\Dropbox\Calle CSharpProject\CSharpProject\obj\Debug\CSharpProject.pdb
